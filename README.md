@@ -71,13 +71,9 @@ The optimized contracts are generated in the artifacts/ directory.
 
 ## Deployment
 
-You can find versions and commits for actual deployed
-contracts [here](https://github.com/astroport-fi/astroport-changelog).
+You can find versions and commits for actual deployed contracts.
 
 ## Docs
 
 Docs can be generated using `cargo doc --no-deps`
 
-## Bug Bounty
-
-The contracts in this repo are included in a [bug bounty program](https://www.immunefi.com/bounty/astroport).
